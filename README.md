@@ -5,7 +5,7 @@ Hugo Module for adding the header for the WebMention
 ## Shortcode
 
 ~~~ html
-{{ webmention }}
+{{ partial "macia-webmention/tags.html" . }}
 ~~~
 
 ## Configs
