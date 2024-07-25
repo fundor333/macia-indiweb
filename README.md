@@ -5,7 +5,7 @@ Hugo Module for adding the header for the WebMention
 ## Shortcode
 
 ~~~ html
-{{ partial "macia-webmention/webmention.html" . }}
+{{ partial "maciawebmention/webmention.html" . }}
 ~~~
 
 ## Configs
@@ -13,7 +13,7 @@ Hugo Module for adding the header for the WebMention
 The config for params is this
 
 ~~~ yaml
-macia-webmention:
+maciawebmention:
   webmention: 
   pingback: 
   micropub: 
