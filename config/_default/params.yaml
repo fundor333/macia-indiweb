@@ -1,0 +1,7 @@
+webmention:
+  webmention: None
+  pingback: None
+  micropub: None
+  microsub: None
+  authorization_endpoint: None
+  token_endpoint: None

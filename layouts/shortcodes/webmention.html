@@ -1,0 +1,6 @@
+{{ if .Site.Params.webmention.webmention}}<link rel="webmention" href="{{.Site.Params.webmention.webmention}}" />{{end}}
+{{ if .Site.Params.webmention.pingback}}<link rel="pingback" href="{{.Site.Params.webmention.pingback}}" />{{end}}
+{{ if .Site.Params.webmention.micropub}}<link rel="micropub" href="{{.Site.Params.webmention.micropub}}" />{{end}}
+{{ if .Site.Params.webmention.microsub}}<link rel="microsub" href="{{.Site.Params.webmention.microsub}}" />{{end}}
+{{ if .Site.Params.webmention.authorization_endpoint}}<link rel="authorization_endpoint" href="{{.Site.Params.webmention.authorization_endpoint}}" />{{end}}
+{{ if .Site.Params.webmention.token_endpoint}}<link rel="token_endpoint" href="{{.Site.Params.webmention.token_endpoint}}" />{{end}}

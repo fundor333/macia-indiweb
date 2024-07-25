@@ -103,10 +103,7 @@ ENV/
 # Spyder project settings
 .spyderproject
 
-# Rope project settings
-.ropeproject
 public
-f333-hugo/
 
 .metadata
 bin/
@@ -167,17 +164,11 @@ prepros-6\.config
 report.yaml
 report.yml
 
-themes/f333/assets/css/style.css
 
-themes/f333/assets/css/style.css.map
 node_modules
 .hugo_build.lock
 !scripts
 !scripts/lib
-
-data/webmentions/processed/
-
-OME/
 
 */*/.DS_Store
 */.DS_Store
