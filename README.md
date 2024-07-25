@@ -1,6 +1,6 @@
-# Macia WebMention
+# Macia Indiweb
 
-Hugo Module for adding the header for the WebMention
+Hugo Module for adding the header for the WebMention and other stuff for the Indiweb Open Standard
 
 ## Shortcode
 
