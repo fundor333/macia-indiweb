@@ -13,7 +13,7 @@ Hugo Module for adding the header for the WebMention
 The config for params is this
 
 ~~~ yaml
-webmention:
+macia-webmention:
   webmention: 
   pingback: 
   micropub: 
