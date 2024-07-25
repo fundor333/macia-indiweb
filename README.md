@@ -10,7 +10,7 @@ Hugo Module for adding the header for the WebMention
 
 ## Configs
 
-The default config for params is this
+The config for params is this
 
 ~~~ yaml
 webmention:
@@ -21,3 +21,5 @@ webmention:
   authorization_endpoint: 
   token_endpoint: 
 ~~~
+
+You can set any of them.
